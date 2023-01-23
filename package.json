@@ -1,13 +1,13 @@
 {
   "name": "scratchpad",
-  "homepage" : "https://Amit12234.github.io/Ramesh-AI",
+  "homepage": "https://Amit12234.github.io/Ramesh-AI",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "next start",
     "lint": "next lint"
   },
